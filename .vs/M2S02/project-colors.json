@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2e5ef0fe-d5fa-4846-86cb-88562be9cb4f": {
+      "ProjectGuid": "2e5ef0fe-d5fa-4846-86cb-88562be9cb4f",
+      "DisplayName": "Ex 1",
+      "ColorIndex": 0
+    },
+    "2bff783f-4e85-4517-bd4b-43062a8f4946": {
+      "ProjectGuid": "2bff783f-4e85-4517-bd4b-43062a8f4946",
+      "DisplayName": "Ex 2",
+      "ColorIndex": 1
+    },
+    "8243b188-ba2d-4161-a4a8-f8d396573c66": {
+      "ProjectGuid": "8243b188-ba2d-4161-a4a8-f8d396573c66",
+      "DisplayName": "Ex 3",
+      "ColorIndex": 2
+    },
+    "ce6cdc69-b36d-4311-9c52-33744bb23d60": {
+      "ProjectGuid": "ce6cdc69-b36d-4311-9c52-33744bb23d60",
+      "DisplayName": "Ex 4",
+      "ColorIndex": 3
+    },
+    "a0792bf3-5d3e-40ab-b719-976e9ebb311c": {
+      "ProjectGuid": "a0792bf3-5d3e-40ab-b719-976e9ebb311c",
+      "DisplayName": "Ex 4",
+      "ColorIndex": 4
+    },
+    "910d5811-ec99-4132-aef7-8308f7b6027c": {
+      "ProjectGuid": "910d5811-ec99-4132-aef7-8308f7b6027c",
+      "DisplayName": "Ex 2",
+      "ColorIndex": 5
+    },
+    "26557533-08e5-472b-bac6-36e4da144d22": {
+      "ProjectGuid": "26557533-08e5-472b-bac6-36e4da144d22",
+      "DisplayName": "Ex 3",
+      "ColorIndex": 6
+    },
+    "ec7c2dff-ad9e-4292-a486-b89efad1abb9": {
+      "ProjectGuid": "ec7c2dff-ad9e-4292-a486-b89efad1abb9",
+      "DisplayName": "Ex 5",
+      "ColorIndex": 7
+    },
+    "50c6eb37-c4fb-47aa-a1a5-c5f734cb297c": {
+      "ProjectGuid": "50c6eb37-c4fb-47aa-a1a5-c5f734cb297c",
+      "DisplayName": "Ex 6",
+      "ColorIndex": 8
+    },
+    "116187db-e58b-472e-8c7d-fdfbabfa9ddb": {
+      "ProjectGuid": "116187db-e58b-472e-8c7d-fdfbabfa9ddb",
+      "DisplayName": "Ex 7",
+      "ColorIndex": 9
+    },
+    "c9230eae-42a7-4ed1-b4f5-bd40281ee235": {
+      "ProjectGuid": "c9230eae-42a7-4ed1-b4f5-bd40281ee235",
+      "DisplayName": "Ex 8",
+      "ColorIndex": 10
+    },
+    "6d40a817-aa67-4113-8a1d-1c88805e8758": {
+      "ProjectGuid": "6d40a817-aa67-4113-8a1d-1c88805e8758",
+      "DisplayName": "Ex 9",
+      "ColorIndex": 11
+    },
+    "0da7d720-8d7e-43db-98ee-2daa2388f7e5": {
+      "ProjectGuid": "0da7d720-8d7e-43db-98ee-2daa2388f7e5",
+      "DisplayName": "Ex 10",
+      "ColorIndex": 12
+    }
+  },
+  "NextColorIndex": 13
+}
